@@ -173,3 +173,7 @@ vim /etc/shadowsocks.json
 **参考：**
 
 https://github.com/shadowsocks/shadowsocks/blob/master/README.md
+
+**相关：**
+
+[自建ssr服务器教程](https://www.evernote.com/client/snv?noteGuid=8097d451-10ed-442f-a508-8faf4c7be190&noteKey=10a64b8ba436c654a380feac5cefaa79&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs268%2Fsh%2F8097d451-10ed-442f-a508-8faf4c7be190%2F10a64b8ba436c654a380feac5cefaa79&title=%25E8%2587%25AA%25E5%25BB%25BAss%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E6%2595%2599%25E7%25A8%258B)
